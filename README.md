@@ -10,5 +10,5 @@ Notes Keeper App using ReactJS
 ## Start & watch
 
     $ npm start
-    Run `http://localhost:3000/` on your browser.
+   Run `http://localhost:3000/` on your browser.
 
